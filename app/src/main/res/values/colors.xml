@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="app_background">#A4C4D1</color>
+    <color name="ic_launcher_background">#8DCA93</color>
+    <color name="menu_background">#669198</color>
+    <color name="splash_screen_text">#3C8858</color>
+    <color name="et_background">#F3E3B6</color>
+    <color name="sp_background">#F3E3B6</color>
+    <color name="ib_background">#00F3E3B6</color>
+    <color name="sv_background">#669198</color>
+    <color name="bt_background">#669198</color>
+    <color name="bt_text">#8DCA93</color>
+    <color name="cv_background">#A4C4D1</color>
+    <color name="animal_item_background">#5388B3</color>
+    <color name="check_box_outlined">#727272</color>
+    <color name="check_box_filled">#DD5B44</color>
+    <color name="iv_api_icon">#FF6700</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="text_time">#9EE4DE</color>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/searchAnimalFragment">
+
+    <fragment
+        android:id="@+id/searchAnimalFragment"
+        android:name="com.animalcatalog.presentation.fragments.SearchAnimalFragment"
+        android:label="SearchAnimalFragment"
+        tools:layout="@layout/search_animal_fragment"/>
+
+    <fragment
+        android:id="@+id/classesAnimalFragment"
+        android:name="com.animalcatalog.presentation.fragments.ClassesAnimalFragment"
+        android:label="ClassesAnimalFragment"
+        tools:layout="@layout/classes_animal_fragment">
+        <action
+            android:id="@+id/navigate_to_selectedClassFragment"
+            app:destination="@id/selectedClassFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/selectedClassFragment"
+        android:name="com.animalcatalog.presentation.fragments.SelectedClassFragment"
+        android:label="SelectedClassFragment"
+        tools:layout="@layout/selected_class_fragment">
+
+        <argument
+            android:name="input_class"
+            app:argType="string"
+            app:nullable="false" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/favoritesAnimalFragment"
+        android:name="com.animalcatalog.presentation.fragments.FavoritesAnimalFragment"
+        android:label="FavoritesAnimalFragment"
+        tools:layout="@layout/favorites_animal_fragment" />
+    <fragment
+        android:id="@+id/customViewRequestFragment"
+        android:name="com.animalcatalog.presentation.fragments.CustomViewRequestFragment"
+        android:label="CustomViewRequestFragment"
+        tools:layout="@layout/customview_request_fragment" />
+
+</navigation>

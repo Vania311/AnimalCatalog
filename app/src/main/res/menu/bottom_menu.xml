@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+
+        android:id="@+id/searchAnimalFragment"
+        android:icon="@drawable/ic_search"
+        android:title="@string/ic_menu_search" />
+
+    <item
+        android:id="@+id/classesAnimalFragment"
+        android:icon="@drawable/ic_classes"
+        android:title="@string/ic_menu_classes" />
+
+    <item
+        android:id="@+id/favoritesAnimalFragment"
+        android:icon="@drawable/ic_favorite"
+        android:title="@string/ic_menu_favorites" />
+
+    <item
+        android:id="@+id/customViewRequestFragment"
+        android:icon="@drawable/ic_request"
+        android:title="@string/ic_menu_request" />
+
+</menu>

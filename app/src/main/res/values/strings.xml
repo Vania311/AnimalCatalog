@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Animal Catalog</string>
+
+    <string name="tv_splash_screen">Каталог животных</string>
+
+    <string name="ic_menu_search">Поиск</string>
+    <string name="ic_menu_classes">Животные</string>
+    <string name="ic_menu_favorites">Избранное</string>
+    <string name="ic_menu_request">Запрос</string>
+
+    <string name="bt_add_animal_hint">Добавить</string>
+
+    <string name="et_name_hint">Название</string>
+    <string name="et_category_hint">Класс</string>
+    <string name="et_description_hint">Описание</string>
+    <string name="tv_classes">Класс:</string>
+    <string name="spinner_hint">Выбирете класс</string>
+
+    <string name="tv_animal_name_example">Хамелеон</string>
+    <string name="tv_animal_category_example">Пресмыкающиеся</string>
+    <string name="tv_time_example">05–05–22 14–15</string>
+
+    <string name="bt_request_hint">Запрос</string>
+
+    <string-array name="classes">
+        <item>Земноводные</item>
+        <item>Млекопитающие</item>
+        <item>Насекомые</item>
+        <item>Паукообразные</item>
+        <item>Пресмыкающиеся</item>
+        <item>Птицы</item>
+        <item>Ракообразные</item>
+        <item>Рыбы</item>
+    </string-array>
+</resources>

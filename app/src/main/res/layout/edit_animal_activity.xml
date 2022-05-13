@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_background"
+    android:visibility="visible">
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/edit_activity_guideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.33" />
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/name_edittext"
+        style="@style/edit_text_style"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/et_margin"
+        android:background="@drawable/edit_text_background"
+        android:hint="@string/et_name_hint"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/animalImage_layout"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/classes_textview"
+        style="@style/text_view_style"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_classes"
+        android:layout_marginStart="@dimen/tv_margin"
+        android:layout_marginEnd="@dimen/tv_margin"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/name_edittext" />
+
+    <androidx.appcompat.widget.AppCompatSpinner
+        android:id="@+id/classes_spinner"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="@dimen/sp_margin"
+        android:layout_marginEnd="@dimen/sp_margin"
+        android:background="@drawable/spinner_background"
+        android:entries="@array/classes"
+        android:popupBackground="@drawable/spinner_background"
+        app:layout_constraintBottom_toTopOf="@id/description_edittext"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/classes_textview" />
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/description_edittext"
+        style="@style/edit_text_style"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="@dimen/et_margin"
+        android:layout_marginTop="@dimen/et_margin"
+        android:layout_marginEnd="@dimen/et_margin"
+        android:layout_marginBottom="@dimen/et_margin"
+        android:background="@drawable/edit_text_background"
+        android:gravity="top|start"
+        android:hint="@string/et_description_hint"
+        android:inputType="textMultiLine|textPersonName"
+        android:scrollbars="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/classes_spinner"
+        app:layout_constraintVertical_bias="0.0"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <androidx.appcompat.widget.AppCompatImageButton
+        android:id="@+id/addImage_ib"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:layout_marginEnd="12dp"
+        android:alpha="1.0"
+        android:background="@color/ib_background"
+        android:src="@drawable/add_image"
+        app:layout_constraintBottom_toTopOf="@+id/save_ib"
+        app:layout_constraintEnd_toEndOf="@+id/description_edittext" />
+
+    <androidx.appcompat.widget.AppCompatImageButton
+        android:id="@+id/save_ib"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:alpha="1.0"
+        android:background="@color/ib_background"
+        android:src="@drawable/save"
+        app:layout_constraintBottom_toBottomOf="@+id/description_edittext"
+        app:layout_constraintEnd_toEndOf="@+id/description_edittext" />
+
+    <androidx.appcompat.widget.AppCompatImageButton
+        android:id="@+id/edit_ib"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="16dp"
+        android:alpha="1.0"
+        android:background="@color/ib_background"
+        android:src="@drawable/edit"
+        app:layout_constraintBottom_toBottomOf="@+id/description_edittext"
+        app:layout_constraintStart_toStartOf="@+id/description_edittext" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/animalImage_layout"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/image_view_background"
+        android:visibility="gone"
+        app:layout_constraintBottom_toTopOf="@+id/edit_activity_guideline"
+        app:layout_constraintEnd_toEndOf="@+id/name_edittext"
+        app:layout_constraintStart_toStartOf="@+id/name_edittext"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/animalImage_iv"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_margin="10dp"
+            android:scaleType="centerCrop"
+            android:visibility="visible"
+            app:layout_constraintBottom_toBottomOf="@+id/animalImage_layout"
+            app:layout_constraintEnd_toEndOf="@+id/animalImage_layout"
+            app:layout_constraintStart_toStartOf="@+id/animalImage_layout"
+            app:layout_constraintTop_toTopOf="@+id/animalImage_layout"
+            tools:srcCompat="@tools:sample/avatars" />
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:id="@+id/editImage_ib"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            app:srcCompat="@drawable/edit_image"
+            android:background="@color/ib_background"
+            app:layout_constraintEnd_toEndOf="@+id/animalImage_layout"
+            app:layout_constraintTop_toTopOf="@+id/animalImage_layout" />
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:id="@+id/deleteImage_ib"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            app:srcCompat="@drawable/delete_image"
+            android:background="@color/ib_background"
+            app:layout_constraintBottom_toBottomOf="@+id/animalImage_layout"
+            app:layout_constraintEnd_toEndOf="@+id/animalImage_layout" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

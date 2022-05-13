@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tv_margin">12dp</dimen>
+    <dimen name="et_margin">12dp</dimen>
+    <dimen name="sp_margin">12dp</dimen>
+    <dimen name="ib_margin">16dp</dimen>
+    <dimen name="bt_height">60dp</dimen>
+    <dimen name="animal_item_height">65dp</dimen>
+
+    <dimen name="margin3dp">3dp</dimen>
+    <dimen name="margin8dp">8dp</dimen>
+</resources>

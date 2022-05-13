@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AnimalCatalog/app/src/main/res/drawable/animal_item_background.xml" value="0.172" />
+        <entry key="..\:/AnimalCatalog/app/src/main/res/drawable/ic_animal_silhouette.xml" value="0.172" />
+        <entry key="..\:/AnimalCatalog/app/src/main/res/drawable/splash_screen_icon.xml" value="0.172" />
+        <entry key="..\:/AnimalCatalog/app/src/main/res/layout/animal_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/AnimalCatalog/app/src/main/res/layout/edit_animal_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/AnimalCatalog/app/src/main/res/layout/list_animals_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/AnimalCatalog/app/src/main/res/layout/menu_activity.xml" value="0.25" />
+        <entry key="..\:/AnimalCatalog/app/src/main/res/layout/start_activity.xml" value="0.1" />
+        <entry key="..\:/ChangedAnimalCatalog/app/src/main/res/drawable/spinner_background.xml" value="0.1" />
+        <entry key="..\:/ChangedAnimalCatalog/app/src/main/res/drawable/splash_screen_icon.xml" value="0.1385" />
+        <entry key="..\:/ChangedAnimalCatalog/app/src/main/res/layout/animal_item.xml" value="0.19010416666666666" />
+        <entry key="..\:/ChangedAnimalCatalog/app/src/main/res/layout/edit_animal_activity.xml" value="0.22" />
+        <entry key="..\:/ChangedAnimalCatalog/app/src/main/res/layout/list_animals_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/ChangedAnimalCatalog/app/src/main/res/layout/menu_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/ChangedAnimalCatalog/app/src/main/res/layout/spinner_dropdown_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/ChangedAnimalCatalog/app/src/main/res/layout/spinner_item.xml" value="0.25" />
+        <entry key="..\:/ChangedAnimalCatalog/app/src/main/res/layout/start_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/drawable-anydpi/ic_add.xml" value="0.156" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/drawable-anydpi/ic_save.xml" value="0.156" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.156" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/drawable/animal_item_background.xml" value="0.115" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/drawable/edit_text_background.xml" value="0.2115" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/drawable/ic_add_image.xml" value="0.156" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/drawable/image_view_background.xml" value="0.2115" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/drawable/search_view_bachground.xml" value="0.164" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/drawable/search_view_background.xml" value="0.115" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/drawable/spinner_background.xml" value="0.2115" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/layout-land/start_activity.xml" value="0.3104166666666667" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/layout/animal.xml" value="0.20416666666666666" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/layout/animal_item.xml" value="0.2" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/layout/edit_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/layout/edit_animal_activity.xml" value="0.18" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/layout/edit_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/layout/list_animals_activity.xml" value="0.2" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/layout/main_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/layout/main_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/layout/start_activity.xml" value="0.1" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/menu/drawer_main_menu.xml" value="0.5" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/menu/menu.xml" value="0.22" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.156" />
+        <entry key="..\:/KotlinProjects/AnimalCatalog/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.156" />
+        <entry key="..\:/Users/User/Desktop/ChangedAnimalCatalog/app/src/main/res/layout/animal_item.xml" value="0.25" />
+        <entry key="..\:/Users/User/Desktop/NewAnimalCatalog/app/src/main/res/layout/classes_animal_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/ChangedAnimalCatalog/app/src/main/res/drawable/ic_add_image.xml" value="0.2115" />
+        <entry key="..\:/project/ChangedAnimalCatalog/app/src/main/res/layout/animal_item.xml" value="0.33" />
+        <entry key="..\:/project/ChangedAnimalCatalog/app/src/main/res/layout/category_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/ChangedAnimalCatalog/app/src/main/res/layout/category_animal_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/ChangedAnimalCatalog/app/src/main/res/layout/edit_animal_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/ChangedAnimalCatalog/app/src/main/res/layout/list_animals_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/ChangedAnimalCatalog/app/src/main/res/layout/menu_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/ChangedAnimalCatalog/app/src/main/res/layout/selected_class_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/ChangedAnimalCatalog/app/src/main/res/layout/spinner_dropdown_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/ChangedAnimalCatalog/app/src/main/res/layout/spinner_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/ChangedAnimalCatalog/app/src/main/res/layout/start_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/drawable/animal_item_background.xml" value="0.2115" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/drawable/button_background.xml" value="0.2115" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/drawable/checkbox_selector.xml" value="0.2115" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/drawable/edit_text_background.xml" value="0.2115" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/drawable/ic_elipse.xml" value="0.2115" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/drawable/ic_ellipse.xml" value="0.2115" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/drawable/ic_favorite.xml" value="0.2115" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/drawable/ic_favorite_filled.xml" value="0.2115" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/drawable/ic_favorite_outlined.xml" value="0.2115" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/drawable/ic_search.xml" value="0.2115" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/drawable/image_view_background.xml" value="0.2115" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/drawable/search_view_background.xml" value="0.2115" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/drawable/spinner_background.xml" value="0.2115" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/drawable/splash_screen_ic.xml" value="0.2115" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/drawable/text_view_background.xml" value="0.2115" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/layout/animal_item.xml" value="0.5" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/layout/classes_animal_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/layout/customview_layout.xml" value="0.25" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/layout/customview_request_fragment.xml" value="0.2" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/layout/edit_animal_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/layout/favorites_animal_fragment.xml" value="0.22" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/layout/request_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/layout/search_animal_fragment.xml" value="0.25" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/layout/spinner_dropdown_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/layout/spinner_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/layout/splash_activity.xml" value="0.25" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/layout/start_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/FirstAnimalCatalog/app/src/main/res/menu/bottom_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2115" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/drawable/animal_item_background.xml" value="0.2115" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/drawable/card_view_background.xml" value="0.2115" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/drawable/edit_text_background.xml" value="0.19" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/drawable/ic__search.xml" value="0.2115" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/drawable/ic_add_image.xml" value="0.2115" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/drawable/ic_classes.xml" value="0.19" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/drawable/ic_favorite.xml" value="0.2115" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/drawable/ic_search.xml" value="0.2115" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/drawable/image_view_background.xml" value="0.19" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/drawable/search_view_background.xml" value="0.2115" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/drawable/spinner_background.xml" value="0.2115" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/drawable/splash_screen_icon.xml" value="0.2115" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/layout/animal_item.xml" value="0.5" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/layout/category_animal_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/layout/class_animal_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/layout/classes_animal_fragment.xml" value="0.25" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/layout/edit_animal_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/layout/edit_animal_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/layout/favorites_animal_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/layout/list_animals_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/layout/menu_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/layout/search_animal_fragment.xml" value="0.25" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/layout/selected_class_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/layout/selected_class_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/layout/spinner_dropdown_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/layout/spinner_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/layout/start_activity.xml" value="0.18" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/layout/toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/menu/bottom_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/project/NewAnimalCatalog/app/src/main/res/menu/menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
