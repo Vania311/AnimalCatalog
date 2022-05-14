@@ -186,7 +186,7 @@ class EditAnimalActivity : AppCompatActivity() {
                     isEditState = true
                     nameEdittext.isEnabled = false
                     classesSpinner.isEnabled = false
-                    descriptionEdittext.isEnabled = false
+                    descriptionEdittext.isEnabled = true
                     editIb.visibility = View.VISIBLE
 
                     classesSpinner.setSelection(i.getIntExtra(IntentConstants.I_CATEGORY_KEY, 0))

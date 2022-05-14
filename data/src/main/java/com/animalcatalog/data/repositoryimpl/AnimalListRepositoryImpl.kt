@@ -59,7 +59,7 @@ class AnimalListRepositoryImpl(
 
     override fun getTheCurrentAddTime(): String {
         val time = Calendar.getInstance().time
-        val formatter = SimpleDateFormat("dd–MM–yy kk–mm", Locale.getDefault())
+        val formatter = SimpleDateFormat("dd–MM–yy kk:mm", Locale.getDefault())
         val fTime = formatter.format(time)
         return fTime.toString()
     }
